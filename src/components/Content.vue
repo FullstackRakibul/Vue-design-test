@@ -5,7 +5,7 @@
 
 <template>
     <div>
-      <h1>- Shujuti -</h1>
+      <h1>- Shejuti -</h1>
       <p>Amar kichu valolagena 🙂</p>
     </div>
 </template>
